@@ -3,6 +3,7 @@
 ## Goal
 
 TODO: add goals
+TODO: add k8s to devcontianer setup: https://github.com/microsoft/vscode-dev-containers/tree/main/containers/kubernetes-helm
 
 ## Prerequisites
 
